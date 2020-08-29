@@ -1,0 +1,4 @@
+https://mvnrepository.com/artifact/org.keycloak/keycloak-spring-boot-starter/11.0.1
+https://www.thomasvitale.com/spring-security-keycloak/
+
+
