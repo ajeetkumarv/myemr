@@ -36,6 +36,11 @@ public class LibraryController {
 		return "books";
 	}
 	
+	@GetMapping(value="/error")
+	public String getError(Model model) {
+		return "403";
+	}
+	
 	@GetMapping(value="/manager")
 	public String getManager(Model model) {
 		configCommonAttributes(model);
